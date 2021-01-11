@@ -22,6 +22,7 @@
 ###### ![Scores By Grade](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20Grade.png)
 ### ii. Scores by school spending
 ####
+###### ![Scores by School Spending](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20spending.png)
 ### iii. Scores by school size
 ####
 ### iv. Scores by school type
