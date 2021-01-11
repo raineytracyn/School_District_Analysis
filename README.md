@@ -19,6 +19,7 @@
 ## B. How does replacing the ninth-grade scores affect the following:
 ### i. Math and reading scores by grade
 ####
+###### ![Scores By Grade](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20Grade.png)
 ### ii. Scores by school spending
 ####
 ### iii. Scores by school size
