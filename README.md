@@ -28,6 +28,7 @@
 ###### ![Scores By School Size](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Score%20by%20School%20Size.png)
 ### iv. Scores by school type
 ####
+###### ![Scores by School Type](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20type.png)
 # <ins> 3. Summary: 
 ## Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 ####
