@@ -18,13 +18,13 @@
 #### Looking specifically at Thomas High School, you can see the inflated numbers were in the high 80’s and 90’s. By removing fraudulent information, we find the actual scores ranged in the mid-60’s. 
 ## B. How does replacing the ninth-grade scores affect the following:
 ### i. Math and reading scores by grade
-####
+#### From this angle, you can see the scores have not changed, and “nan” appears in Thomas High Schools 9th grade category. This is likely due to an error written in the code, and will be corrected in 1.1.2 release of the program. Using additional resources supplied, we have a lot of consolidated information to support that there was inaccurate or fraudulent information provided.
 ###### ![Scores By Grade](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20Grade.png)
 ### ii. Scores by school spending
-####
+#### You can see in the range of “$630-644” that there was a drop in grades, which parallels the information early on. All other areas have stay consistent.
 ###### ![Scores by School Spending](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20spending.png)
 ### iii. Scores by school size
-####
+#### In the medium school size, you can see a drop in grades from the mid 90’s to the mid 80’s. All other school sizes stayed the same.
 ###### ![Scores By School Size](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Score%20by%20School%20Size.png)
 ### iv. Scores by school type
 ####
