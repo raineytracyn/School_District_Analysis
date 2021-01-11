@@ -12,4 +12,5 @@
 3. Scores by school size
 4. Scores by school type
 
-# <ins> Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+# <ins> Summary: 
+## Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
