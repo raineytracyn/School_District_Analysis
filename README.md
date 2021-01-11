@@ -2,7 +2,7 @@
 ### Module 4
 # <ins> 1. Overview of the school district analysis: Explain the purpose of this analysis.
 # <ins> 2. Results: 
-# <ins> Using bulleted lists and images of DataFrames as support, address the following questions.
+## Using bulleted lists and images of DataFrames as support, address the following questions.
 1. How is the district summary affected?
 2. How is the school summary affected?
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
