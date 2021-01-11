@@ -31,4 +31,4 @@
 ###### ![Scores by School Type](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20type.png)
 # <ins> 3. Summary: 
 ## Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-####
+#### In summary, we can see there was about a 2% decline in areas of passing math and reading, which negatively impacted the overall passing rate in all areas looked above. In summary, because of the actions, we saw a 1% reduction in the overall passing score due to faulty information provided. 
