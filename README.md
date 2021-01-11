@@ -27,7 +27,7 @@
 #### In the medium school size, you can see a drop in grades from the mid 90’s to the mid 80’s. All other school sizes stayed the same.
 ###### ![Scores By School Size](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Score%20by%20School%20Size.png)
 ### iv. Scores by school type
-####
+#### Looking at the math and reading passing section for charter, there was a dip from the 90’s down to the 80’s, again paralleling over 95% of the results provided above. This brought the overall passing rate down from 90% to 87%.
 ###### ![Scores by School Type](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20type.png)
 # <ins> 3. Summary: 
 ## Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
