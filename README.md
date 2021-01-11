@@ -10,8 +10,10 @@
 ## A.Using bulleted lists and images of DataFrames as support, address the following questions.
 ### i. How is the district summary affected?
 ####
+###### ![District Affected](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/District%20Affected.png)
 ### ii. How is the school summary affected?
 ####
+###### ![School Summary Affected](https://github.com/raineytracyn/School_District_Analysis/blob/main/Resources/School%20Summary%20Affected.png)
 ### iii. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ####
 ## B. How does replacing the ninth-grade scores affect the following:
